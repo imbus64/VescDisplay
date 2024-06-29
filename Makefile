@@ -4,3 +4,6 @@ SOURCES+= $(wildcard SVD/*.ino)
 
 format: $(SOURCES)
 	clang-format -i $^
+
+init: 
+	git submodule update --init --recursive

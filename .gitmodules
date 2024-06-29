@@ -1,12 +1,12 @@
 [submodule "Libraries/PNGdec"]
 	path = Libraries/PNGdec
-	url = https://github.com:bitbank2/PNGdec.git
+	url = https://github.com/bitbank2/PNGdec.git
 [submodule "Libraries/FlickerFreePrint"]
 	path = Libraries/FlickerFreePrint
-	url = https://github.com:KrisKasprzak/FlickerFreePrint.git
+	url = https://github.com/KrisKasprzak/FlickerFreePrint.git
 [submodule "Libraries/VescUart"]
 	path = Libraries/VescUart
-	url = https://github.com:SolidGeek/VescUart.git
+	url = https://github.com/SolidGeek/VescUart.git
 [submodule "Libraries/TFT_eSPI"]
 	path = Libraries/TFT_eSPI
 	url = https://github.com/Bodmer/TFT_eSPI.git
